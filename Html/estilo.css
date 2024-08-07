@@ -1,0 +1,87 @@
+p {
+    color: rgb(0, 0, 0);
+    font-family: Arial, sans-serif;
+}
+
+
+h1, h2, h3, h4, h5 {
+    font-family: Georgia, serif;
+    font-weight: bold;
+    border: 2px solid #000000; 
+    padding: 20px; 
+    margin-bottom: 20px;
+    background-color: hsl(0, 100%, 99%); 
+    color: #333; 
+    font-family: 'Arial', sans-serif; 
+    text-align: center; 
+    border-radius: 10px; 
+
+}
+
+
+#dadosp h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+#dadosp p {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+
+#formacao h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+#formacao p {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+
+#exeperiencia h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+#cursos p {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+
+#idiomas p {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+
+body {
+    background-color: #f9f7d9; 
+    font-family: Arial, sans-serif;
+}
+
+
+#dadosp, #formacao, #exeperiencia, #cursos, #idiomas {
+    background-color: #fff; 
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+}
+
+
+#dadosp h1, #formacao h2, #exeperiencia h3 {
+    color: #333; 
+}
+
+
+#dadosp p, #formacao p, #exeperiencia p, #cursos p, #idiomas p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
